@@ -28,7 +28,7 @@
   <img align="center" alt="Kubernetes" width="40px"            src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg">
   <img align="center" alt="Terraform"  width="40px"            src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_terraform_icon_130125.png"> 
   <img align="center" alt="AWS"        width="60px"            src="https://www.logo.wine/a/logo/Amazon_Web_Services/Amazon_Web_Services-Logo.wine.svg"> 
-  <img align="center" alt="Google Cloud"        width="60px"            src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21~bgwhite.svg)">
+  <img align="center" alt="Google"     width="60px"            src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21~bgwhite.svg">
 </div>
     
   
