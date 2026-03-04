@@ -12,19 +12,19 @@
 
 📫 Certificações:
 
-GitHub Foundations Certified.⚡
-Site Reliability Engineering (SRE) Foundation Certified.⚡
-AWS Certified Cloud Practitioner - Foundation. ⚡
-AWS Certified Solutions Architect - Associate. ⚡
-FinOps Certified Practitioner. ⚡
-FinOps Certified Engineer. ⚡
-Google Cloud Certified: Generative AI Leader. ⚡
-Google Cloud Certified: Associate Cloud Engineer. ⚡
-Google Cloud Certified: Professional Cloud Architect. ⚡
-Microsoft Certified: Azure Fundamentals. 
+GitHub Foundations Certified... ⚡
+Site Reliability Engineering (SRE) Foundation Certified... ⚡
+AWS Certified Cloud Practitioner - Foundation... ⚡
+AWS Certified Solutions Architect - Associate... ⚡
+FinOps Certified Practitioner... ⚡
+FinOps Certified Engineer... ⚡
+Google Cloud Certified: Generative AI Leader... ⚡
+Google Cloud Certified: Associate Cloud Engineer... ⚡
+Google Cloud Certified: Professional Cloud Architect... ⚡
+Microsoft Certified: Azure Fundamentals... ⚡
 Microsoft Certified: Azure Administrator. ⚡
-Microsoft Certified: Azure Developer Associate. ⚡
-Microsoft Certified: Azure Solutions Architect Expert. ⚡
+Microsoft Certified: Azure Developer Associate... ⚡
+Microsoft Certified: Azure Solutions Architect Expert... ⚡
 
   </samp>
 </p>
