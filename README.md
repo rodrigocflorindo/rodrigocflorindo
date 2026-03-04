@@ -26,21 +26,21 @@ Focused on Reliability, Observability, Infrastructure as Code and Cloud Architec
 
 💞️ I’m looking to collaborate on people e tools ...<br><br>
 
-<b>🎓 Certificações</b><br><br>
+<b>🎓 Certifications</b><br><br>
 
-GitHub Foundations Certified... ⚡<br>
-Site Reliability Engineering (SRE) Foundation Certified... ⚡<br>
-AWS Certified Cloud Practitioner - Foundation... ⚡<br>
-AWS Certified Solutions Architect - Associate... ⚡<br>
-FinOps Certified Practitioner... ⚡<br>
-FinOps Certified Engineer... ⚡<br>
-Google Cloud Certified: Generative AI Leader... ⚡<br>
-Google Cloud Certified: Associate Cloud Engineer... ⚡<br>
-Google Cloud Certified: Professional Cloud Architect... ⚡<br>
-Microsoft Certified: Azure Fundamentals... ⚡<br>
-Microsoft Certified: Azure Administrator... ⚡<br>
-Microsoft Certified: Azure Developer Associate... ⚡<br>
-Microsoft Certified: Azure Solutions Architect Expert... ⚡<br><br>
+🏅 GitHub Foundations Certified... ⚡<br>
+🏅 Site Reliability Engineering Foundation... ⚡<br>
+🏅 AWS Certified Cloud Practitioner... ⚡<br>
+🏅 AWS Certified Solutions Architect – Associate... ⚡<br>
+🏅 FinOps Certified Practitioner... ⚡<br>
+🏅 FinOps Certified Engineer... ⚡<br>
+🏅 Google Cloud – Generative AI Leader... ⚡<br>
+🏅 Google Cloud – Associate Cloud Engineer... ⚡<br>
+🏅 Google Cloud – Professional Cloud Architect... ⚡<br>
+🏅 Microsoft Azure Fundamentals... ⚡<br>
+🏅 Microsoft Azure Administrator... ⚡<br>
+🏅 Microsoft Azure Developer Associate... ⚡<br>
+🏅 Microsoft Azure Solutions Architect Expert... ⚡<br>
 
 <b>🎓 Pós-graduações</b><br><br>
 
